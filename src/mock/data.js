@@ -31,29 +31,56 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Cookbook',
+    info: 'Search for and store recipes for easier access.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://still-sierra-23537.herokuapp.com/',
+    repo: 'https://github.com/mandisareed/cookbook', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Sorting Hat Quiz',
+    info: 'Indulge your inner wizard and see where the sorting hat places you.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://tlam1288.github.io/Sorting-Hat-Quiz',
+    repo: 'https://github.com/tlam1288/Sorting-Hat-Quiz',
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Bootstrap Portfolio',
+    info: 'A simple, clean portfolio.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://mandisareed.github.io/Bootstrap-Responsive-Portfolio/',
+    repo: 'https://github.com/mandisareed/Bootstrap-Responsive-Portfolio',
+  },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Fitness Tracker',
+    info: 'Track your workouts each work to reach your goals faster.',
+    info2: '',
+    url: 'https://fitness-tracker-demo.herokuapp.com/',
+    repo: 'https://github.com/mandisareed/fitness-tracker',
+  },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Budget Tracker',
+    info: 'A PWA to track budget ins and outs on the go.',
+    info2: '',
+    url: 'https://agile-citadel-81951.herokuapp.com/',
+    repo: 'https://github.com/mandisareed/pwa-budget-tracker',
+  },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'ReadMe Generator',
+    info: 'A CLI app to generate a professional ReadMe.',
+    info2: '',
+    // url: '',
+    repo: 'https://github.com/mandisareed/cli-nodejs',
   },
 ];
 
