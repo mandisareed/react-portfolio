@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profilepic.JPG',
+  img: 'bwprofilepic.JPG',
   paragraphOne:
     "Growing up, I loved to create and try new things - especially within an oddball set of given circumstances (here's looking at you, improv). This lead to a desire to become an actor, although I soon learned that being onstage and in front of the camera made me too nervous and self-conscious to enjoy the craft. Thankfully, I took a stage management elective and discovered a career path through which I could still be an integral part of a production's creative process and NOT bare my soul onstage.",
   paragraphTwo:
