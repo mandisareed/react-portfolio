@@ -1,7 +1,7 @@
 ## A clean, beautiful and responsive portfolio highlighting my passion for web development and a handful of projects.
 
  
-![Image of homeScreen](/src/images/home.PNG)
+![Image of homeScreen](/src/images/home.png)
 
 ## See the deployed site: 
 [View the deployed site on Netlify!](https://clever-blackwell-4e5200.netlify.app)
