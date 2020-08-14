@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'portfoliopic.JPG',
+  img: 'profilepic.JPG',
   paragraphOne:
     "Growing up, I loved to create and try new things - especially within an oddball set of given circumstances (here's looking at you, improv). This lead to a desire to become an actor, although I soon learned that being onstage and in front of the camera made me too nervous and self-conscious to enjoy the craft. Thankfully, I took a stage management elective and discovered a career path through which I could still be an integral part of a production's creative process and NOT bare my soul onstage.",
   paragraphTwo:
@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cookbooksearchresult.png',
     title: 'Cookbook',
     info: 'Search for and store recipes for easier access.',
     info2: '',
@@ -39,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'hpquiz.PNG',
     title: 'Sorting Hat Quiz',
     info: 'Indulge your inner wizard and see where the sorting hat places you.',
     info2: '',
@@ -48,7 +48,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'portfolioproject.PNG',
     title: 'Bootstrap Portfolio',
     info: 'A simple, clean portfolio.',
     info2: '',
@@ -57,7 +57,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cardiologger.PNG',
     title: 'Fitness Tracker',
     info: 'Track your workouts each work to reach your goals faster.',
     info2: '',
@@ -66,7 +66,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'budgettracker.PNG',
     title: 'Budget Tracker',
     info: 'A PWA to track budget ins and outs on the go.',
     info2: '',
@@ -75,7 +75,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'renderfunction.PNG',
     title: 'ReadMe Generator',
     info: 'A CLI app to generate a professional ReadMe.',
     info2: '',
