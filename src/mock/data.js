@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     "As a stage manager, I've worked in traditional theatre settings, opera, live events, and have taken a Broadway production on tour. All of these avenues have required tremendous levels of communication and attention to detail, and foster a profound sense of community. Although that world is currently on pause due to the current pandemic, the drive to excel and dig deep still remains within me. I aim to channel these attribute and more into my journey of being a web developer.",
   // paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '/MReed WD Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -86,9 +86,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: 'Interested in collaborating? Fantastic!',
   btn: '',
-  email: '',
+  email: 'mandisa.reed@gmail.com',
 };
 
 // FOOTER DATA
@@ -96,23 +96,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/mandisa-reed-112476123/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/mandisareed',
     },
   ],
 };
