@@ -17,13 +17,13 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'bwprofilepic.JPG',
+  img: 'bwprofilepic.jpg',
   paragraphOne:
     "Growing up, I loved to create and try new things - especially within an oddball set of given circumstances (here's looking at you, improv). This lead to a desire to become an actor, although I soon learned that being onstage and in front of the camera made me too nervous and self-conscious to enjoy the craft. Thankfully, I took a stage management elective and discovered a career path through which I could still be an integral part of a production's creative process and NOT bare my soul onstage.",
   paragraphTwo:
     "As a stage manager, I've worked in traditional theatre settings, opera, live events, and have taken a Broadway production on tour. All of these avenues have required tremendous levels of communication and attention to detail, and foster a profound sense of community. Although that world is currently on pause due to the current pandemic, the drive to excel and dig deep still remains within me. I aim to channel these attribute and more into my journey of being a web developer.",
   // paragraphThree: '',
-  resume: '/MReed WD Resume.pdf', // if no resume, the button will not show up
+  resume: '/MReedWDResume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
