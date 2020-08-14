@@ -79,7 +79,7 @@ export const projectsData = [
     title: 'ReadMe Generator',
     info: 'A CLI app to generate a professional ReadMe.',
     info2: '',
-    // url: '',
+    url: 'https://drive.google.com/file/d/1NSqhrHn5-2eb8fUGDdnSqmJi5qHLcykp/view',
     repo: 'https://github.com/mandisareed/cli-nodejs',
   },
 ];
