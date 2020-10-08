@@ -60,7 +60,10 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href={resume}
+                      // This is not the best file path as its absolute and not relative.
+                      // Note that this properly displays resume on localhost.
+                      // Next step is to get the file path to displayed on the deployed site
+                      href="/MReedWDResume.pdf"
                     >
                       Resume
                     </a>

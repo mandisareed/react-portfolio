@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     "As a stage manager, I've worked in traditional theatre settings, opera, live events, and have taken a Broadway production on tour. All of these avenues have required tremendous levels of communication and attention to detail, and foster a profound sense of community. Although that world is currently on pause due to the current pandemic, the drive to excel and dig deep still remains within me. I aim to channel these attribute and more into my journey of being a web developer.",
   // paragraphThree: '',
-  resume: '/MReedWDResume.pdf', // if no resume, the button will not show up
+  resume: 'publicMReedWDResume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
