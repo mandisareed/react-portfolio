@@ -4,6 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 import PortfolioContext from '../../context/context';
+import pdf from '../Resume/MReedWDResume.pdf';
 
 const About = () => {
   const { about } = useContext(PortfolioContext);
@@ -60,10 +61,8 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      // This is not the best file path as its absolute and not relative.
-                      // Note that this properly displays resume on localhost.
-                      // Next step is to get the file path to displayed on the deployed site
-                      href="/MReedWDResume.pdf"
+                      // File path to pdf imported above from Resume folder. let's see if it works from deployed site!
+                      href={pdf}
                     >
                       Resume
                     </a>
