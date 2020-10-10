@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 import PortfolioContext from '../../context/context';
-import Pdf from '../Resume/MReedWebDevResume.pdf';
+// import Pdf from '../Resume/MReedWebDevResume.pdf';
 // import MReedWDResumePdf from '../../pages/MReedWDResume.pdf';
 
 const About = () => {
@@ -63,7 +63,7 @@ const About = () => {
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
                       // File path to pdf imported above from Resume folder. let's see if it works from deployed site!
-                      href={Pdf}
+                      href="/MReedWebDevResume.pdf"
                     >
                       Resume
                     </a>
