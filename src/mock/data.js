@@ -1,4 +1,5 @@
 import { nanoid } from 'nanoid';
+// import respdf from '../components/Resume/MReedWebDevResume.pdf';
 
 // HEAD DATA
 export const headData = {
@@ -23,7 +24,7 @@ export const aboutData = {
   paragraphTwo:
     "Although that world is largely on pause due to the current pandemic, the drive to excel and dig deep still remains within me. I aim to channel these attributes and more into creating websites and applications that elevate users' experiences through thoughtful design and inclusivity.",
   paragraphThree: '',
-  resume: 'publicMReedWDResume.pdf', // if no resume, the button will not show up
+  resume: 'MReedWebDevResume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

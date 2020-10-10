@@ -1,9 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/main.scss';
-// import '../components/Resume/MReedWDResume.pdf';
-import pdf from '../components/Resume/MReedWDResume.pdf';
+import respdf from '../components/Resume/MReedWebDevResume.pdf';
 
 export default () => {
-  return <div>{pdf}</div>;
+  return <div>{respdf}</div>;
 };
