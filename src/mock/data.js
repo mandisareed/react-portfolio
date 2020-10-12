@@ -1,5 +1,6 @@
 import { nanoid } from 'nanoid';
-import Pdf from '../components/Resume/MReedWebDevResume.pdf';
+// import Pdf from 'public/MReedWebDevResume.pdf';
+import Pdf from '../../public/MReedWebDevResume.pdf';
 
 // HEAD DATA
 export const headData = {
@@ -32,11 +33,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'cookbooksearchresult.png',
+    title: 'HERstory',
+    info: 'Search for and store recipes for easier access.',
+    info2: '',
+    url: 'https://herstoryed.herokuapp.com/signup',
+    repo: 'https://github.com/mandisareed/HERstory', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'cookbooksearchresult.png',
     title: 'Cookbook',
     info: 'Search for and store recipes for easier access.',
     info2: '',
     url: 'https://still-sierra-23537.herokuapp.com/',
-    repo: 'https://github.com/mandisareed/cookbook', // if no repo, the button will not show up
+    repo: 'https://github.com/mandisareed/cookbook',
   },
   {
     id: nanoid(),
