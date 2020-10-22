@@ -34,9 +34,10 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'cookbooksearchresult.png',
+    img: 'herstory.PNG',
     title: 'HERstory',
-    info: 'Search for and store recipes for easier access.',
+    info:
+      'An interactive, educational site to inform and test user knowledge on prominent women of history.',
     info2: '',
     url: 'https://herstoryed.herokuapp.com/signup',
     repo: 'https://github.com/mandisareed/HERstory', // if no repo, the button will not show up
